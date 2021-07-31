@@ -1,6 +1,9 @@
 /**
-    Included below are the components from bootstrap framework. Uncomment if you need them
+    Included below are the components from bootstrap framework. Uncomment if you need them.
+    All the variables are controlled in the `./bootstrap-variables.scss` file
 */
+@import "./bootstrap-variables.scss";
+
 
 // scss-docs-start import-stack
 // Configuration
